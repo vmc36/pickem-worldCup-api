@@ -13,10 +13,7 @@
     "seed": "node prisma/seed.js"
   },
   "keywords": [],
-  "author": {
-    "name": "Vinicius Modesto",
-    "email": "viniciusmodesto.dev@gmail.com"
-  },
+
   "license": "ISC",
   "dependencies": {
     "@koa/cors": "^3.4.1",
