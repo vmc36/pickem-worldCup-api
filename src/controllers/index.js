@@ -1,0 +1,6 @@
+export * as authController from './auth.controller.js'
+export * as hunchesController from './hunches.controller.js'
+export * as matchesController from './matches.controller.js'
+export * as teamsController from './teams.controller.js'
+export * as usersController from './users.controller.js'
+export * as leaderboardController from './leaderboard.controller.js'
