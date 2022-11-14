@@ -1,6 +1,6 @@
-import { client } from "../../src/database/prismaClient.js";
-import matches from "./matches.json" assert { type: "json" };
-import teams from "./teams.json" assert { type: "json" };
+import { client } from "../src/database/prismaClient.js";
+import matches from "./matches.js";
+import teams from "./teams.js";
 
 async function runSeed() {
   await client.team.createMany({

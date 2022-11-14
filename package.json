@@ -7,8 +7,10 @@
   "scripts": {
     "dev": "nodemon -r dotenv-safe/config api/index.js",
     "start": "node -r dotenv-safe/config api/index.js",
-    "seed": "node prisma/seed/seed.js",
     "test": "jest"
+  },
+  "prisma": {
+    "seed": "node ./prisma/seed.js"
   },
   "keywords": [],
   "license": "ISC",
