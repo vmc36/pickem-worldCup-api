@@ -7,7 +7,7 @@ Você pode se cadastrar através de um email e senha, cadastrar seus palpites co
 
 ## Conteúdo do repositório.
 
-Aqui se encontra a api da aplicação, Os principais serviços são:
+Aqui se encontra a api da aplicação, as principais tecnologias da api são:
 
 - ### [KoaJs](https://koajs.com/)
 
@@ -47,3 +47,7 @@ Além de outras ferramentas como: JWT,Bcrypt, Yup.
 ```
  SERVER_PORT= insira a porta aqui
 ```
+
+# Link do repositório contendo o front-end.
+
+https://github.com/vmc36/pickem-worldCup-web
