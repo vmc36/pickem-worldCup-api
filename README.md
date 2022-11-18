@@ -28,26 +28,22 @@ Além de outras ferramentas como: JWT,Bcrypt, Yup.
 
 ```
  git clone https://github.com/vmc36/pickem-worldCup-api.git
-
 ```
 
 2. Vá para a pasta api:
 
 ```
  cd api
-
 ```
 
 3. Instale as dependências necessárias:
 
 ```
  npm install
-
 ```
 
 4.  No arquivo .env.example informe a porta local do seu front-end (vite):
 
 ```
  SERVER_PORT= insira a porta aqui
-
 ```
