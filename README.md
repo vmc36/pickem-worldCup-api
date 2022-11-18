@@ -45,7 +45,7 @@ Além de outras ferramentas como: JWT,Bcrypt, Yup.
 
 ```
 
-    4. No arquivo .env.example informe a porta local do seu front-end (vite):
+4.  No arquivo .env.example informe a porta local do seu front-end (vite):
 
 ```
  SERVER_PORT= insira a porta aqui
